@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a6de9b1-4942-43ed-819e-7362617b44d9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PQg7RlqTpUMU04JLzV2fZg35QJ" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.lipstick.AgendaDeObjetivos.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LoginControllerTest.loginComSucesso">
+    <configuration name="AgendaDeObjetivosApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AgendaDeObjetivos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.lipstick.AgendaDeObjetivos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.lipstick.AgendaDeObjetivos" />
+      <option name="MAIN_CLASS_NAME" value="br.com.lipstick.AgendaDeObjetivos.AgendaDeObjetivosApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AgendaDeObjetivos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.lipstick.AgendaDeObjetivos.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.lipstick.AgendaDeObjetivos.controller" />
+      <option name="MAIN_CLASS_NAME" value="br.com.lipstick.AgendaDeObjetivos.controller.LoginControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginControllerTest.loginComFalha" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AgendaDeObjetivos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.lipstick.AgendaDeObjetivos.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.lipstick.AgendaDeObjetivos.controller" />
+      <option name="MAIN_CLASS_NAME" value="br.com.lipstick.AgendaDeObjetivos.controller.LoginControllerTest" />
+      <option name="METHOD_NAME" value="loginComFalha" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginControllerTest.loginComSucesso" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AgendaDeObjetivos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.lipstick.AgendaDeObjetivos.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.lipstick.AgendaDeObjetivos.controller" />
+      <option name="MAIN_CLASS_NAME" value="br.com.lipstick.AgendaDeObjetivos.controller.LoginControllerTest" />
+      <option name="METHOD_NAME" value="loginComSucesso" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AgendaDeObjetivosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="AgendaDeObjetivos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.lipstick.AgendaDeObjetivos.AgendaDeObjetivosApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginControllerTest.loginComSucesso" />
+        <item itemvalue="JUnit.LoginControllerTest.loginComFalha" />
+        <item itemvalue="JUnit.AgendaDeObjetivosApplicationTests" />
+        <item itemvalue="JUnit.LoginControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Rodrigo Braga\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a6de9b1-4942-43ed-819e-7362617b44d9" name="Default Changelist" comment="" />
+      <created>1565811566358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565811566358</updated>
+      <workItem from="1565811573475" duration="2487000" />
+      <workItem from="1565899380758" duration="299000" />
+      <workItem from="1566247391175" duration="11263000" />
+      <workItem from="1566261310360" duration="313000" />
+      <workItem from="1566261664313" duration="4159000" />
+      <workItem from="1566848350029" duration="5480000" />
+      <workItem from="1567024833077" duration="176000" />
+      <workItem from="1567119692857" duration="3320000" />
+      <workItem from="1567187386397" duration="15000" />
+      <workItem from="1567188450892" duration="1109000" />
+      <workItem from="1567409752168" duration="629000" />
+      <workItem from="1567412269812" duration="679000" />
+      <workItem from="1568060978101" duration="9643000" />
+      <workItem from="1568667619842" duration="10450000" />
+      <workItem from="1568680590939" duration="4198000" />
+      <workItem from="1569268354025" duration="175000" />
+      <workItem from="1569269539308" duration="5415000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
