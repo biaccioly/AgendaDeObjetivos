@@ -40,10 +40,10 @@ public class UsuariosController {
 	
 	@GetMapping("/usuarios/idade/{idade}")
 	public ResponseEntity<List<Usuario>> obterPorIdade
-	(@PathVariable("idade") Integer idade){
+	(@PathVariable("idade") Integer idade) {
 		List<Usuario> usuariosPorIdade = new ArrayList<Usuario>();
-		for (Usuario u : usuarios) {
-			if (u.getIdade().equals(idade)) {
+		for (Usuario o : usuarios) {
+			if (o.getIdade().equals(idade)) {
 				usuariosPorIdade.add(u);
 			}
 		}
