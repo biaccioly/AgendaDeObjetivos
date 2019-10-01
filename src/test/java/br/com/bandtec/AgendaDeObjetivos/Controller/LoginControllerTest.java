@@ -7,6 +7,9 @@ import org.junit.Test;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 
+import br.com.lipstick.AgendaDeObjetivos.Controller.Credenciais;
+import br.com.lipstick.AgendaDeObjetivos.Controller.LoginController;
+
 public class LoginControllerTest {
 	
 	private LoginController controller;

@@ -1,4 +1,4 @@
-package br.com.bandtec.AgendaDeObjetivos.Controller;
+package br.com.lipstick.AgendaDeObjetivos.Controller;
 
 public class Credenciais {
 

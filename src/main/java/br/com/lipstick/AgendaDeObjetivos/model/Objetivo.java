@@ -27,6 +27,10 @@ public class Objetivo {
 	@Embedded
 	private Prioridade prioridade;
 	
+	@ManyToOne
+	@JoinColumn(name="usuario_id")
+	private Usuario usuario;
+	
 	public Objetivo() {}
 	
 	public Objetivo(String titulo, String descricao, LocalDate dataMaximaParaExecucao, Prioridade prioridade) {
